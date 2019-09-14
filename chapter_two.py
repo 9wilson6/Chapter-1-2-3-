@@ -69,7 +69,7 @@ Q12.
 range(10) implies 0 to 9
 range(0, 10) implies 0 to 9 starting from 0
 range(0,10,1) implies 0 to 9 with a step of 1
-Q13. for i in range(11):
+Q13. for i in range(1,11):
     print(i)
 i=0
 while i<=10:
